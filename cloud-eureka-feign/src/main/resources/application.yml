@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: eureka-feign
+      label: master
+      profile: dev
+      uri: http://localhost:8888

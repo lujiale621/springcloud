@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cloud.iml" filepath="$PROJECT_DIR$/.idea/Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config/cloud-config.iml" filepath="$PROJECT_DIR$/cloud-config/cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-dependencies/cloud-dependencies.iml" filepath="$PROJECT_DIR$/cloud-dependencies/cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-admin/cloud-eureka-admin.iml" filepath="$PROJECT_DIR$/cloud-eureka-admin/cloud-eureka-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" filepath="$PROJECT_DIR$/cloud-eureka-client/cloud-eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-feign/cloud-eureka-feign.iml" filepath="$PROJECT_DIR$/cloud-eureka-feign/cloud-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" filepath="$PROJECT_DIR$/cloud-eureka-server/cloud-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul-gateway/cloud-zuul-gateway.iml" filepath="$PROJECT_DIR$/cloud-zuul-gateway/cloud-zuul-gateway.iml" />
+    </modules>
+  </component>
+</project>
